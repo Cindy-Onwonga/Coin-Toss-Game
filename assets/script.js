@@ -56,8 +56,3 @@ resetBtn.addEventListener("click",() => {
 
 
 
-#flip-button:disabled{
-  background-color: #e1e0ee;
-  border-color: #e1e0ee;
-  color: #101020;
-}
